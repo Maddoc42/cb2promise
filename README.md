@@ -1,3 +1,8 @@
+This is a **JavaScript** version of the original cb2promise library. All coffeescript files have been transpiled and replaced by their JS counterparts.
+
+This repo was created in a repsonse to an [issue about using this library with webpack](https://github.com/jviotti/electron-json-storage/issues/50).
+
+
 # cb2promise
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/cb2promise.svg?style=flat-square)
