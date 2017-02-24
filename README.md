@@ -2,6 +2,12 @@ This is a **JavaScript** version of the original cb2promise library. All coffees
 
 This repo was created in a repsonse to an [issue about using this library with webpack](https://github.com/jviotti/electron-json-storage/issues/50).
 
+To replace the original coffeescript library with this JS one simply run:
+
+```
+npm install --save git+https://github.com/Maddoc42/cb2promise.git
+```
+
 
 # cb2promise
 
