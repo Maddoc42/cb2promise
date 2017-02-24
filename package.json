@@ -22,7 +22,6 @@
     "converter"
   ],
   "dependencies": {
-    "coffee-script": "*",
     "pinkie-promise": "*"
   },
   "devDependencies": {
